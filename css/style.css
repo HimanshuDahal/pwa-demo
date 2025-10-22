@@ -24,6 +24,6 @@ html,
 
 .container #msg {
   font-size: 1.8em;
-  text-transform:capitalize;
-  color:rgb(32, 207, 193);
+  text-transform: capitalize;
+  color: rgb(32, 207, 193);
 }
